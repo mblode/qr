@@ -31,12 +31,12 @@
       API Docs
     </a>
     <span> | </span>
-    <a href="https://github.com/http-rs/qr/blob/main/.github/CONTRIBUTING.md">
+    <a href="https://github.com/mblode/qr/blob/main/CONTRIBUTING.md">
       Contributing
     </a>
     <span> | </span>
     <a href="https://github.com/mblode/qr">
-      Chat
+      Repo
     </a>
   </h3>
 </div>
