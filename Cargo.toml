@@ -3,8 +3,13 @@ name = "qr"
 version = "0.1.0"
 authors = ["Matthew Blode <m@blode.co>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "QR code generator via an API"
+documentation = "https://docs.rs/qr"
+readme = "README.md"
+repository = "https://github.com/mblode/qr/"
+license = "MIT"
+keywords = ["actix", "api", "qr", "qr-code"]
+categories = ["api"]
 
 [dependencies]
 actix-web = "3"
